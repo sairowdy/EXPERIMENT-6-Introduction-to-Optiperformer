@@ -68,7 +68,7 @@ The system includes:
 
 ## Tabulation
 
-![WhatsApp Image 2026-03-19 at 8 29 56 PM](https://github.com/user-attachments/assets/fc7e9039-5013-48cb-b29a-a3d84d09cece)
+<img width="760" height="1280" alt="image" src="https://github.com/user-attachments/assets/a15b7d42-ab0d-4300-893f-fbb2bb3c49dd" />
 
 ## Graphs
 
